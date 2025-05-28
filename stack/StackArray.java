@@ -92,6 +92,8 @@ public class StackArray {
                     System.out.println("❌ Invalid option try again ❌");
                 }
             }
+            scan.close();
         }
+
     }
 }
